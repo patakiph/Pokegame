@@ -1,0 +1,40 @@
+﻿  Main.cpp
+c:\users\ольга\documents\visual studio 2015\projects\pokegame\pokegame\level.hpp(60): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\ольга\documents\visual studio 2015\projects\pokegame\pokegame\level.hpp(144): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\ольга\documents\visual studio 2015\projects\pokegame\pokegame\level.hpp(145): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\ольга\documents\visual studio 2015\projects\pokegame\pokegame\level.hpp(185): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\ольга\documents\visual studio 2015\projects\pokegame\pokegame\level.hpp(242): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\ольга\documents\visual studio 2015\projects\pokegame\pokegame\level.hpp(263): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\ольга\documents\visual studio 2015\projects\pokegame\pokegame\level.hpp(264): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\ольга\documents\visual studio 2015\projects\pokegame\pokegame\level.hpp(265): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\ольга\documents\visual studio 2015\projects\pokegame\pokegame\level.hpp(266): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\ольга\documents\visual studio 2015\projects\pokegame\pokegame\level.hpp(309): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ольга\documents\visual studio 2015\projects\pokegame\pokegame\level.hpp(318): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ольга\documents\visual studio 2015\projects\pokegame\pokegame\level.hpp(340): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ольга\documents\visual studio 2015\projects\pokegame\pokegame\level.hpp(341): warning C4018: <: несоответствие типов со знаком и без знака
+Main.cpp(31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Main.cpp(35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Main.cpp(55): warning C4551: в вызове функции отсутствует список аргументов
+Main.cpp(57): warning C4305: =: усечение из "double" к "float"
+Main.cpp(60): warning C4305: =: усечение из "double" к "float"
+Main.cpp(64): warning C4305: =: усечение из "double" к "float"
+Main.cpp(80): warning C4018: <: несоответствие типов со знаком и без знака
+Main.cpp(121): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+Main.cpp(126): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+Main.cpp(131): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+Main.cpp(136): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+Main.cpp(151): warning C4305: =: усечение из "double" к "float"
+Main.cpp(159): warning C4018: <: несоответствие типов со знаком и без знака
+Main.cpp(165): warning C4305: =: усечение из "double" к "float"
+Main.cpp(166): warning C4305: =: усечение из "double" к "float"
+Main.cpp(206): warning C4018: <: несоответствие типов со знаком и без знака
+Main.cpp(227): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+Main.cpp(253): warning C4305: =: усечение из "double" к "float"
+  Создание кода
+c:\users\ольга\documents\visual studio 2015\projects\pokegame\pokegame\level.hpp(312): warning C4715: Level::GetObject: значение возвращается не при всех путях выполнения
+  126 of 979 functions (12.9%) were compiled, the rest were copied from previous compilation.
+    96 functions were new in current compilation
+    45 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Pokegame.vcxproj -> C:\Users\Ольга\documents\visual studio 2015\Projects\Pokegame\Release\Pokegame.exe
+  Pokegame.vcxproj -> C:\Users\Ольга\documents\visual studio 2015\Projects\Pokegame\Release\Pokegame.pdb (Full PDB)
